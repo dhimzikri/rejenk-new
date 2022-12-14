@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload. Test on commit build.
+          Edit <code>src/App.js</code> and save to reload. Test on commit build. Build 1 lagi dari komit
         </p>
         <a
           className="App-link"
